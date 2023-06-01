@@ -1,3 +1,11 @@
+#Project Overview
+----Dark----
+https://github.com/DrewCode00/React-Social-Dashboard/blob/Master/Screenshots/Dark.png
+
+
+----Light----
+https://github.com/DrewCode00/React-Social-Dashboard/blob/Master/Screenshots/Light.png
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
